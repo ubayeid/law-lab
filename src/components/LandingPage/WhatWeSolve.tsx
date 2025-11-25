@@ -75,7 +75,7 @@ export default function WhatWeSolve() {
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto animate-fade-in-up animation-delay-200">
             Legal professionals face unprecedented challenges in today's fast-paced world. 
-            VeritasAI addresses these critical pain points with revolutionary AI technology.
+            LawLab addresses these critical pain points with revolutionary AI technology.
           </p>
         </div>
 
@@ -103,7 +103,7 @@ export default function WhatWeSolve() {
           <div className="inline-flex flex-col items-center gap-4 p-8 bg-gradient-to-r from-gray-800 to-gray-700 rounded-2xl border border-gray-600 hover:border-gray-500 transition-all duration-300 hover:scale-105 hover:shadow-xl">
             <h3 className="text-2xl font-bold text-white">Ready to Transform Your Legal Practice?</h3>
             <p className="text-gray-300 max-w-2xl">
-              Join thousands of legal professionals who have revolutionized their research process with VeritasAI
+              Join thousands of legal professionals who have revolutionized their research process with LawLab
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button className="px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-full font-semibold hover:from-blue-700 hover:to-purple-700 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-blue-500/25">

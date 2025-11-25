@@ -8,28 +8,28 @@ export default function FAQ() {
 
   const faqs = [
     {
-      question: "How does VeritasAI ensure accuracy in legal research?",
-      answer: "VeritasAI uses advanced AI trained on millions of legal cases and employs multiple validation layers including bias detection, cross-reference verification, and real-time fact-checking. Our AI safety protocols ensure 99.7% accuracy in legal analysis."
+      question: "How does LawLab ensure accuracy in legal research?",
+      answer: "LawLab uses advanced AI trained on millions of legal cases and employs multiple validation layers including bias detection, cross-reference verification, and real-time fact-checking. Our AI safety protocols ensure 99.7% accuracy in legal analysis."
     },
     {
       question: "Is my legal data secure and confidential?",
-      answer: "Absolutely. VeritasAI employs enterprise-grade security with end-to-end encryption, SOC 2 compliance, and strict data privacy protocols. Your legal queries and data are never shared with third parties and are protected by attorney-client privilege standards."
+      answer: "Absolutely. LawLab employs enterprise-grade security with end-to-end encryption, SOC 2 compliance, and strict data privacy protocols. Your legal queries and data are never shared with third parties and are protected by attorney-client privilege standards."
     },
     {
-      question: "Can VeritasAI replace traditional legal research methods?",
-      answer: "VeritasAI enhances and accelerates traditional legal research rather than replacing it entirely. It provides comprehensive case law analysis, identifies relevant precedents, and generates insights that complement human legal expertise, making research 50x faster while maintaining the highest accuracy standards."
+      question: "Can LawLab replace traditional legal research methods?",
+      answer: "LawLab enhances and accelerates traditional legal research rather than replacing it entirely. It provides comprehensive case law analysis, identifies relevant precedents, and generates insights that complement human legal expertise, making research 50x faster while maintaining the highest accuracy standards."
     },
     {
-      question: "What types of legal cases can VeritasAI analyze?",
-      answer: "VeritasAI can analyze virtually any legal matter including civil litigation, criminal law, corporate law, intellectual property, employment law, family law, and more. Our AI is trained on comprehensive legal databases covering federal, state, and international law."
+      question: "What types of legal cases can LawLab analyze?",
+      answer: "LawLab can analyze virtually any legal matter including civil litigation, criminal law, corporate law, intellectual property, employment law, family law, and more. Our AI is trained on comprehensive legal databases covering federal, state, and international law."
     },
     {
       question: "How does the pricing work for law firms?",
       answer: "We offer flexible pricing plans starting with a free tier for individual lawyers, professional plans at $29/month for growing firms, and custom enterprise solutions for large law firms. All plans include our core AI safety features and bias detection capabilities."
     },
     {
-      question: "Does VeritasAI provide legal advice?",
-      answer: "VeritasAI provides legal research and analysis tools but does not provide legal advice. It's designed to assist legal professionals in their research and analysis processes. Users should always consult with qualified attorneys for legal advice specific to their situations."
+      question: "Does LawLab provide legal advice?",
+      answer: "LawLab provides legal research and analysis tools but does not provide legal advice. It's designed to assist legal professionals in their research and analysis processes. Users should always consult with qualified attorneys for legal advice specific to their situations."
     }
   ];
 
@@ -55,7 +55,7 @@ export default function FAQ() {
             Frequently Asked Questions
           </h2>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto animate-fade-in-up animation-delay-200">
-            Get answers to common questions about VeritasAI's legal research capabilities, security, and pricing.
+            Get answers to common questions about LawLab's legal research capabilities, security, and pricing.
           </p>
         </div>
 
@@ -96,7 +96,7 @@ export default function FAQ() {
           <div className="inline-flex flex-col items-center gap-4 p-8 bg-gradient-to-r from-gray-800 to-gray-700 rounded-2xl border border-gray-600 hover:border-gray-500 transition-all duration-300 hover:scale-105 hover:shadow-xl">
             <h3 className="text-2xl font-bold text-white">Still have questions?</h3>
             <p className="text-gray-300 max-w-2xl">
-              Our legal AI experts are here to help you understand how VeritasAI can transform your practice.
+              Our legal AI experts are here to help you understand how LawLab can transform your practice.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button className="px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-full font-semibold hover:from-blue-700 hover:to-purple-700 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-blue-500/25">

@@ -69,7 +69,7 @@ export default function HowItWorks() {
       <div className="max-w-7xl mx-auto px-6 relative">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4 animate-fade-in-up">
-            How VeritasAI Transforms Legal Research
+            How LawLab Transforms Legal Research
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto animate-fade-in-up animation-delay-200">
             Experience the future of legal research with our revolutionary 3-step process that delivers comprehensive results in minutes, not hours.
@@ -120,7 +120,7 @@ export default function HowItWorks() {
 
         {/* Benefits */}
         <div className="text-center">
-          <h3 className="text-2xl font-bold text-white mb-8">Why Legal Professionals Choose VeritasAI</h3>
+          <h3 className="text-2xl font-bold text-white mb-8">Why Legal Professionals Choose LawLab</h3>
           <div className="flex flex-col sm:flex-row gap-8 justify-center items-center">
             {benefits.map((benefit, index) => (
               <div key={index} className="flex items-center gap-3 p-4 bg-gray-800/50 rounded-xl border border-gray-700 hover:border-gray-600 transition-all duration-300 hover:scale-105">

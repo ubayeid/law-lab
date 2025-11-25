@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "VeritasAI - AI-Powered Legal Research | Advanced Legal Intelligence",
+  title: "LawLab - AI-Powered Legal Research | Advanced Legal Intelligence",
   description: "Revolutionary AI-powered legal research platform with bias detection, predictive analytics, and transparent reasoning. Transform your legal practice with cutting-edge AI capabilities.",
   icons: {
     icon: "/favicon.png",

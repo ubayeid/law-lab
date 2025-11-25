@@ -26,7 +26,15 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto px-6">
             <div className="flex items-center justify-between h-16">
                 <div className="flex items-center gap-4">
-                  <Image src="/veritasai.png" alt="VeritasAI" width={172} height={172} className="object-contain rounded-sm" />
+                  <Image 
+                    src="/veritasai.png" 
+                    alt="LawLab" 
+                    width={172} 
+                    height={172} 
+                    className="object-contain rounded-sm" 
+                    priority
+                    sizes="172px"
+                  />
                 </div>
 
               <div className="flex-1 flex items-center justify-end">

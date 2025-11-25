@@ -286,7 +286,7 @@ export default function ChatInterface({ onCitationsChange, onChatCreated, initia
             <div className="text-center">
               <div className="mx-auto mb-1 flex h-8 w-12 items-center justify-center">
                 <Link href="/">
-                  <Image src="/logo-1.png" alt="VeritasAI" width={1012} height={1012} className="rounded-full cursor-pointer hover:opacity-80 transition-opacity" />
+                  <Image src="/logo-1.png" alt="LawLab" width={1012} height={1012} className="rounded-full cursor-pointer hover:opacity-80 transition-opacity" />
                 </Link>
               </div>
               <h2 className="mb-1 text-xl font-bold text-white">Legal Research Assistant</h2>

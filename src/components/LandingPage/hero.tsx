@@ -21,10 +21,12 @@ export default function Hero() {
             <div className="relative inline-block">
               <Image 
                 src="/logo-1.png" 
-                alt="VeritasAI" 
+                alt="LawLab" 
                 width={100} 
                 height={100} 
                 className="mx-auto rounded-2xl shadow-2xl"
+                priority
+                sizes="100px"
               />
               <div className="absolute -top-2 -right-2 w-6 h-6 bg-green-500 rounded-full flex items-center justify-center">
                 <div className="w-2 h-2 bg-white rounded-full animate-pulse"></div>

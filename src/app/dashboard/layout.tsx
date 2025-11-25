@@ -14,7 +14,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
             <div className="flex items-center">
               <Link href="/" className="flex items-center group">
                 <div className="flex-shrink-0">
-                  <h1 className="text-2xl font-bold text-white group-hover:text-blue-400 transition-colors">VeritasAI</h1>
+                  <h1 className="text-2xl font-bold text-white group-hover:text-blue-400 transition-colors">LawLab</h1>
                 </div>
               </Link>
             </div>

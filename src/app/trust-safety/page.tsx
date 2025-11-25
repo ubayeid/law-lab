@@ -84,7 +84,7 @@ export default function TrustSafetyPage() {
             <div className="flex items-center">
               <Link href="/" className="flex items-center group">
                 <div className="flex-shrink-0">
-                  <h1 className="text-2xl font-bold text-white group-hover:text-blue-400 transition-colors">VeritasAI</h1>
+                    <h1 className="text-2xl font-bold text-white group-hover:text-blue-400 transition-colors">LawLab</h1>
                 </div>
               </Link>
             </div>
@@ -127,7 +127,7 @@ export default function TrustSafetyPage() {
             </span>
           </h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto animate-fade-in-up animation-delay-200">
-            VeritasAI is built with AI safety, bias detection, and transparency at its core. 
+            LawLab is built with AI safety, bias detection, and transparency at its core. 
             Learn how we protect against bias, privacy breaches, misinformation, and security issues.
           </p>
         </div>
@@ -170,7 +170,7 @@ export default function TrustSafetyPage() {
           <div className="inline-flex flex-col items-center gap-4 p-8 bg-gradient-to-r from-gray-800 to-gray-700 rounded-2xl border border-gray-600 hover:border-gray-500 transition-all duration-300 hover:scale-105 hover:shadow-xl">
             <h3 className="text-2xl font-bold text-white">Ready to Experience Safe AI Legal Research?</h3>
             <p className="text-gray-300 max-w-2xl">
-              Join thousands of legal professionals who trust VeritasAI for accurate, safe, and transparent legal research.
+              Join thousands of legal professionals who trust LawLab for accurate, safe, and transparent legal research.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link 

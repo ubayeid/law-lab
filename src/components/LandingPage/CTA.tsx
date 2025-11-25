@@ -5,7 +5,7 @@ export default function CTA() {
         <div className="max-w-4xl mx-auto">
           <h3 className="text-5xl font-bold mb-6">Transform Your Legal Practice Today</h3>
           <p className="text-xl text-blue-100 mb-8 leading-relaxed">
-            Join over 10,000+ attorneys who have revolutionized their legal research with VeritasAI. 
+            Join over 10,000+ attorneys who have revolutionized their legal research with LawLab. 
             Save 85% of research time while finding 3x more relevant cases.
           </p>
           

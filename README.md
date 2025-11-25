@@ -1,4 +1,4 @@
-# VeritasAI - Truth in Legal Intelligence
+# LawLab - Truth in Legal Intelligence
 
 <div align="center">
 
@@ -16,11 +16,11 @@ Transform hours of legal research into minutes with AI-powered analysis
 
 ---
 
-## 🏆 What Makes VeritasAI Unique?
+## 🏆 What Makes LawLab Unique?
 
 ### 🎯 **Built Specifically for Legal Professionals**
 
-Unlike generic AI chatbots, VeritasAI is purpose-built for the legal industry with specialized features that understand legal context, case law relationships, and precedent hierarchies.
+Unlike generic AI chatbots, LawLab is purpose-built for the legal industry with specialized features that understand legal context, case law relationships, and precedent hierarchies.
 
 ---
 
@@ -112,7 +112,7 @@ Ask questions in plain English:
 
 ## 📊 Competitive Advantages
 
-| Feature | VeritasAI | Traditional Research | Other AI Tools |
+| Feature | LawLab | Traditional Research | Other AI Tools |
 |---------|-----------|---------------------|----------------|
 | Multi-document analysis | ✅ Real-time | ❌ Manual | ⚠️ Limited |
 | Bias detection | ✅ Built-in | ❌ None | ❌ None |
@@ -131,8 +131,8 @@ Ask questions in plain English:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Ubayeid/veritas-ai.git
-cd veritas-ai
+git clone https://github.com/Ubayeid/lawlab.git
+cd lawlab
 
 # 2. Install dependencies
 npm install
@@ -210,7 +210,7 @@ npm start
 ### Project Structure
 
 ```
-veritas-ai/
+lawlab/
 ├── src/
 │   ├── app/              # Next.js app router
 │   ├── components/       # React components
@@ -273,7 +273,7 @@ veritas-ai/
 
 ## 🌟 Success Stories
 
-> "VeritasAI cut our research time by 75% and helped us find 
+> "LawLab cut our research time by 75% and helped us find 
 > a critical case we would have missed. It's become essential 
 > to our practice." 
 > - Partner, Mid-Size Law Firm
@@ -335,9 +335,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect
 
-- **GitHub:** [github.com/Ubayeid/veritas-ai](https://github.com/Ubayeid/veritas-ai)
-- **Issues:** [Report a Bug](https://github.com/Ubayeid/veritas-ai/issues)
-- **Discussions:** [Join the Community](https://github.com/Ubayeid/veritas-ai/discussions)
+- **GitHub:** [github.com/Ubayeid/lawlab](https://github.com/Ubayeid/lawlab)
+- **Issues:** [Report a Bug](https://github.com/Ubayeid/lawlab/issues)
+- **Discussions:** [Join the Community](https://github.com/Ubayeid/lawlab/discussions)
 
 ---
 

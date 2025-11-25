@@ -124,7 +124,7 @@ export default function AIIDManagementPage() {
             <div className="flex items-center">
               <Link href="/" className="flex items-center">
                 <div className="flex-shrink-0">
-                  <h1 className="text-2xl font-bold text-gray-900">VeritasAI</h1>
+                  <h1 className="text-2xl font-bold text-gray-900">LawLab</h1>
                 </div>
               </Link>
             </div>

@@ -75,7 +75,7 @@ export default function Features() {
             Revolutionary Legal AI Features
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto animate-fade-in-up animation-delay-200">
-            Built specifically for legal professionals, VeritasAI combines cutting-edge artificial intelligence with comprehensive legal databases to transform how you practice law.
+            Built specifically for legal professionals, LawLab combines cutting-edge artificial intelligence with comprehensive legal databases to transform how you practice law.
           </p>
         </div>
 

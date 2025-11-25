@@ -29,7 +29,7 @@ export default function Footer() {
     { name: 'Twitter', href: '#', icon: Twitter },
     { name: 'LinkedIn', href: '#', icon: Linkedin },
     { name: 'GitHub', href: '#', icon: Github },
-    { name: 'Email', href: 'mailto:contact@veritasai.com', icon: Mail },
+    { name: 'Email', href: 'mailto:contact@lawlab.com', icon: Mail },
   ];
 
   return (
@@ -49,7 +49,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
                 <Shield className="w-6 h-6 text-white" />
               </div>
-              <h3 className="text-2xl font-bold text-white">VeritasAI</h3>
+              <h3 className="text-2xl font-bold text-white">LawLab</h3>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               The only legal research AI with built-in safety validation. 
@@ -151,7 +151,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2025 VeritasAI. All rights reserved. Built with AI safety at its core.
+              © 2025 LawLab. All rights reserved. Built with AI safety at its core.
             </div>
             <div className="flex items-center gap-6 text-sm text-gray-400">
               <div className="flex items-center gap-2">
